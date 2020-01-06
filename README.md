@@ -1,6 +1,6 @@
 Compile the c# script  
 Run{  
   
-##nc -l -p [listening port]  
+# nc -l -p [listening port]  
   
 }(in your linux dist)  
