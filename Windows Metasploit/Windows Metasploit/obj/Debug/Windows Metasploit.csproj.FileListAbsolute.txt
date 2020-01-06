@@ -1,0 +1,9 @@
+C:\Users\tobal\source\repos\Windows Metasploit\Windows Metasploit\bin\Debug\Windows Metasploit.exe.config
+C:\Users\tobal\source\repos\Windows Metasploit\Windows Metasploit\bin\Debug\Windows Metasploit.exe
+C:\Users\tobal\source\repos\Windows Metasploit\Windows Metasploit\bin\Debug\Windows Metasploit.pdb
+C:\Users\tobal\source\repos\Windows Metasploit\Windows Metasploit\obj\Debug\Windows Metasploit.csprojAssemblyReference.cache
+C:\Users\tobal\source\repos\Windows Metasploit\Windows Metasploit\obj\Debug\Windows_Metasploit.Form1.resources
+C:\Users\tobal\source\repos\Windows Metasploit\Windows Metasploit\obj\Debug\Windows_Metasploit.Properties.Resources.resources
+C:\Users\tobal\source\repos\Windows Metasploit\Windows Metasploit\obj\Debug\Windows Metasploit.csproj.GenerateResource.cache
+C:\Users\tobal\source\repos\Windows Metasploit\Windows Metasploit\obj\Debug\Windows Metasploit.exe
+C:\Users\tobal\source\repos\Windows Metasploit\Windows Metasploit\obj\Debug\Windows Metasploit.pdb
